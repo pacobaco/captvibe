@@ -47,7 +47,7 @@ Usage
 ⸻
 
 ## Folder Structure
-
+```
 captvibe/
 ├── generate_scorm_captvibe.py
 ├── scormdriver.js
@@ -57,7 +57,7 @@ captvibe/
 │   ├── project2.html
 │   ├── imsmanifest.xml
 │   └── assets/images/...
-
+```
 ## Customization
 	•	Adjust max_questions per project in the script.
 	•	Modify quiz generation logic to include more function names or headings.
